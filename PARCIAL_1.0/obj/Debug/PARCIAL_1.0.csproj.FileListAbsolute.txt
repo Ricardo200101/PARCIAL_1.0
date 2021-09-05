@@ -1,0 +1,10 @@
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\bin\Debug\PARCIAL_1.0.exe.config
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\bin\Debug\PARCIAL_1.0.exe
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\bin\Debug\PARCIAL_1.0.pdb
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\bin\Debug\login.dll
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\bin\Debug\login.pdb
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\obj\Debug\PARCIAL_1.0.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\obj\Debug\PARCIAL_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\obj\Debug\PARCIAL_1.0.csproj.CopyComplete
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\obj\Debug\PARCIAL_1.0.exe
+C:\Users\Ricardo Alvarez\source\repos\PARCIAL_1.0\PARCIAL_1.0\obj\Debug\PARCIAL_1.0.pdb
