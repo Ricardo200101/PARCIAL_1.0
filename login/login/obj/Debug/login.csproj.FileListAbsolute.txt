@@ -4,3 +4,9 @@ C:\Users\Ricardo Alvarez\source\repos\login\login\obj\Debug\login.csproj.Assembl
 C:\Users\Ricardo Alvarez\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo Alvarez\source\repos\login\login\obj\Debug\login.dll
 C:\Users\Ricardo Alvarez\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\bin\Debug\login.dll
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\bin\Debug\login.pdb
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\obj\Debug\login.dll
+C:\Users\Ricardo Alvarez\Desktop\pacial\PARCIAL_1.0\login\login\obj\Debug\login.pdb

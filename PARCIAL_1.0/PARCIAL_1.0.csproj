@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="login, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\login\login\bin\Debug\login.dll</HintPath>
+      <HintPath>..\..\..\..\source\repos\PARCIAL_1.0\login\login\bin\Debug\login.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
